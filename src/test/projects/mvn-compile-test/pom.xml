@@ -26,7 +26,9 @@
   </developers>
 
   <properties>
-	<protobuf.version>3.11.4</protobuf.version>
+	<protobuf.version>3.16.1</protobuf.version>
+	<maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
   </properties>
 
   <dependencies>
